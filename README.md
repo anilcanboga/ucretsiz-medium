@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anilcanboga/ucretsiz-medium/images/icon-128.png?raw=true" alt="UcretsizMedium image"/>
+  <img src="https://github.com/anilcanboga/ucretsiz-medium/extension/images/icon-128.png?raw=true" alt="UcretsizMedium image"/>
 </p>
 
 # UcretsizMedium
